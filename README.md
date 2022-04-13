@@ -3,19 +3,14 @@
 General Information 
 
 
-![brain-stim.jpg](attachment:brain-stim.jpg)
+
+###Brain   
 
 
 
-[brain]!(https://github.com/EmreAkanak/Public/blob/main/brain-stim.jpg) 
+![brain-stim](https://user-images.githubusercontent.com/53918883/163282029-1caa86cd-5adf-4d97-9436-1122df700f90.jpg)
 
 
-
-
-<img src=”https://github.com/EmreAkanak/Public/blob/main/brain-stim.jpg”>
-
-
-<img src="Users/EmreAkanak/Desktop/brain-stim.jpg.jpg" alt="Italian Trulli">
 
 
 
